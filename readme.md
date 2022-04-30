@@ -118,7 +118,7 @@ main program sample:
     }
 
 ```
-![](snap.PNG)
+![](https://github.com/flyingyizi/microstepper/blob/main/snap.PNG)
 
 ## about compat
 
